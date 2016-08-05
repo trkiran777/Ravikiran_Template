@@ -1,0 +1,65 @@
+a:link, a:visited {
+    color: black;
+}
+a:hover, a:active {
+    color: #e31e24;
+}
+#header{
+    border-bottom: 2px solid #e31e24;
+}
+#designDiv{
+    margin: 20px 0px -24px 0px;
+}
+.text{
+    font-size: 20px;
+    padding: 20px 0px 0px 50px;
+}
+#view{
+    text-decoration: underline;
+}
+#view:link, #view:visited {
+    color: white;
+}
+#view:hover, #view:active {
+    color: #e31e24;
+}
+.link1:link, .link1:visited {
+    color: darkblue;
+}
+.link1:hover, .link1:active {
+    color: red;
+}
+.overlap_div{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+#videoDiv{
+    background: gray;
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 35px 0px 0px 0px;
+    padding: 250px 0px 250px 0px;
+}
+.moreImages{
+    position: absolute;
+    color: white;
+    top: 37%;
+    left: 35%;
+    font-size: 27px;
+    font-weight: bold;
+}
+#testimonials{
+    background: gray;
+    margin: 100px 0px 0px 0px;
+}
+#faq{
+    margin: 50px 0px 0px 0px;
+}
+#footer{
+    margin: 0px 100px 0px 100px;
+    border-top: 1px solid lightgray;
+}

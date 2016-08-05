@@ -1,0 +1,101 @@
+a:link, a:visited {
+    color: black;
+}
+a:hover, a:active {
+    color: #008CBA;
+}
+#nav1{
+    background: #fafafa;
+}
+#imageDiv{
+    position: relative;
+    padding-top: 5px;
+}
+#divContent1{
+    position: absolute;
+    color: white;
+    font-size: 41px;
+    font-weight: bold;
+    top: 7%;
+    left: 31%;
+}
+#divContent2{
+    position: absolute;
+    color: white;
+    top: 14%;
+    left: 38%;
+}
+#divContent3{
+    position: absolute;
+    color: white;
+    top: 23%;
+    left: 33%;
+}
+#divContent4{
+    position: absolute;
+    top: 43%;
+    left: 44%;
+}
+#divContent5{
+    position: absolute;
+    color: white;
+    top: 48%;
+    left: 29%;
+    font-size: 17px;
+}
+#divContent6{
+    position: absolute;
+    top: 80%;
+    width: 100%;
+    padding: 42px 0px 15px 0px;
+    background: white;
+    opacity: 0.9;
+}
+#innerDiv{
+    padding: 0px 0px 0px 0px;
+    font-size: 14px;
+    text-decoration: underline;
+
+}
+.link1:link, .link1:visited {
+    color: darkblue;
+}
+.link1:hover, .link1:active {
+    color: red;
+}
+#divUpload{
+    padding: 30px 0px 0px 70px;
+    margin: 10px 0px 30px 0px;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+.overlap_div{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+#videoDiv{
+    background: gray;
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 35px 0px 0px 0px;
+    padding: 250px 0px 250px 0px;
+}
+#moreImages{
+    position: absolute;
+    color: white;
+    top: 37%;
+    left: 35%;
+    font-size: 27px;
+    font-weight: bold;
+}
+#testimonials{
+    background: gray;
+    margin: 100px 0px 0px 0px;
+}
+#faq{
+    margin: 50px 0px 0px 0px;
+}
